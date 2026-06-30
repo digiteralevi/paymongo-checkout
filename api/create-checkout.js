@@ -17,8 +17,8 @@ export default async function handler(req, res) {
             line_items: [
               {
                 currency: 'PHP',
-                amount: 100,
-                name: 'test product',
+                amount: 99700,
+                name: 'VIP ROI Framework',
                 quantity: 1
               }
             ],
